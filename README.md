@@ -1,4 +1,4 @@
-# Ejemplos-C-Sharp-matrices
+# C-Sharp-matrices
 Ejercicios de matrices.
 
 1. Se desea introducir por teclado una tabla de 4 filas por 5 columnas de elementos enteros. Escribir un programa que tras la lectura los visualice en pantalla.
